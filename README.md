@@ -24,3 +24,6 @@ function fancyAlert(arg) {
 
 
 9f3d960317eb8ec930d58b8a036edfd4647f8900
+
+
+[link to Google!](http://google.com)
